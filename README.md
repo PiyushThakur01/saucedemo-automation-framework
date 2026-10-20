@@ -72,4 +72,4 @@ After the run, open `reports/ExtentReport.html`. Failure screenshots are in `rep
 - **Bug_Report_Template.md**: defect format used for logging issues in Jira
 
 ## Author
-Your Name | your.email@example.com | [LinkedIn](https://linkedin.com/in/your-profile)
+Piyush Singh | piyushsingh7652.com | [LinkedIn](https://www.linkedin.com/in/piyush-singh-701639251/)
