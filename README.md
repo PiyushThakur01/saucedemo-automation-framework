@@ -48,7 +48,7 @@ testng.xml
 Prerequisites: JDK 11+, Maven, and Chrome (or Firefox/Edge). No manual driver download is needed.
 
 ```bash
-git clone <your-repo-url>
+git remote add origin https://github.com/PiyushThakur01/saucedemo-automation-framework.git
 cd saucedemo-automation-framework
 
 mvn test                                 # all tests, Chrome
