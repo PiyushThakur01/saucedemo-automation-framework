@@ -6,6 +6,7 @@ End-to-end UI automation framework for the e-commerce demo site [SauceDemo](http
 built with **Java, Selenium WebDriver, TestNG and Maven** using the **Page Object Model**.
 The repo also includes the manual testing artifacts (test plan, test cases, bug report format) so it shows
 the complete QA workflow, not just scripts.
+   ![Test Report](docs/report.png)
 
 ## Features
 - Page Object Model with a reusable `BasePage` (explicit waits, no `Thread.sleep`)
